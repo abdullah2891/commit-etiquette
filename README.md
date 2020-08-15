@@ -16,7 +16,7 @@ if user changes parameter , describe parameter change . allow user to make more 
 
 
 
-# Basic Architecture 
+ Basic Architecture 
 Code will live in git hooks. 
 language (can we work in rust please?!)  Blocker with rust , don't know rust 
 
@@ -26,5 +26,6 @@ language (can we work in rust please?!)  Blocker with rust , don't know rust
 ## Make a test dataset 
 ### Find good repo with good code commit message and create test data set (for testing and machine learning)
 ### Create git hooks 
-### Research js syntax analyzer 
+### Research js syntax analyzer XXX
 ### Research NLP models for transfer learning (strech goal)
+
