@@ -26,6 +26,6 @@ language (can we work in rust please?!)  Blocker with rust , don't know rust
 ## Make a test dataset 
 ### Find good repo with good code commit message and create test data set (for testing and machine learning)
 ### Create git hooks 
-### Research js syntax analyzer XXX
+### Research js syntax analyzer (using esprima==4.0.1) done
 ### Research NLP models for transfer learning (strech goal)
 
